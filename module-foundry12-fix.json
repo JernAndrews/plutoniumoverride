@@ -20,7 +20,7 @@
 	"changelog": "https://raw.githubusercontent.com/TheGiddyLimit/plutonium-next/master/CHANGELOG.md",
 	"url": "https://www.patreon.com/Giddy5e",
 	"manifest": "https://raw.githubusercontent.com/JernAndrews/plutoniumoverride/refs/heads/main/module-foundry12-fix.json",
-	"download": "https://github.com/TheGiddyLimit/plutonium-next/raw/master/plutonium-foundry12.zip",
+	"download": "https://github.com/JernAndrews/plutoniumoverride/raw/main/plutonium-foundry12.zip",
 	"compatibility": {
 		"minimum": "12",
 		"verified": "12.331",
